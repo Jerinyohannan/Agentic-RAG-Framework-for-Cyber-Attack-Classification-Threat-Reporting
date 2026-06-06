@@ -1,0 +1,2 @@
+# Agentic-RAG-Framework-for-Cyber-Attack-Classification-Threat-Reporting
+Agentic RAG system that classifies web attack payloads SQLi, SSTI, XSS and generates explainable SOC-ready threat reports using LLMs. Fine-tuned BERT-family transformers. Architected the pipeline using LangGraph with CVSS v3.1 severity scoring, FAISS-backed knowledge bases and generated reports. Tech: Python · LangGraph · HuggingFace.
